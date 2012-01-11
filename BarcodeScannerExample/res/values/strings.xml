@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, MainActivity!</string>
+    <string name="app_name">Barcode Scanner Example</string>
+    <string name="scan_product">Scan Product</string>
+    <string name="barcode">&lt;Barcode&gt;</string>
+    <string name="product">&lt;Product&gt;</string>
+    <string name="price">&lt;Price&gt;</string>
+    <string name="description">&lt;Description&gt;</string>
+</resources>
